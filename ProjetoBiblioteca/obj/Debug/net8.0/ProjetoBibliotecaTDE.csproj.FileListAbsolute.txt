@@ -1,0 +1,14 @@
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\bin\Debug\net8.0\ProjetoBibliotecaTDE.exe
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\bin\Debug\net8.0\ProjetoBibliotecaTDE.deps.json
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\bin\Debug\net8.0\ProjetoBibliotecaTDE.runtimeconfig.json
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\bin\Debug\net8.0\ProjetoBibliotecaTDE.dll
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\bin\Debug\net8.0\ProjetoBibliotecaTDE.pdb
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\obj\Debug\net8.0\ProjetoBibliotecaTDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\obj\Debug\net8.0\ProjetoBibliotecaTDE.AssemblyInfoInputs.cache
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\obj\Debug\net8.0\ProjetoBibliotecaTDE.AssemblyInfo.cs
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\obj\Debug\net8.0\ProjetoBibliotecaTDE.csproj.CoreCompileInputs.cache
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\obj\Debug\net8.0\ProjetoBibliotecaTDE.dll
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\obj\Debug\net8.0\refint\ProjetoBibliotecaTDE.dll
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\obj\Debug\net8.0\ProjetoBibliotecaTDE.pdb
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\obj\Debug\net8.0\ProjetoBibliotecaTDE.genruntimeconfig.cache
+C:\Coisas\Faculdade 2025\Faculdade 2025.2\Programação Orientada a Objetos (Marcão)\TDE\ProjetoBiblioteca\ProjetoBibliotecaTDE\obj\Debug\net8.0\ref\ProjetoBibliotecaTDE.dll
